@@ -1,0 +1,16 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Borderism",
+  "enabledCssSnippets": [
+    "nick-milo-callouts",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "MCL Gallery Cards",
+    "cornell-main-v2",
+    "cornell-banner-v2"
+  ],
+  "accentColor": "#069193",
+  "nativeMenus": false,
+  "baseFontSizeAction": false,
+  "translucency": true
+}
